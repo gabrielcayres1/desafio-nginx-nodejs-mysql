@@ -19,11 +19,11 @@ Suba tudo em um repositório e faça a entrega.
  
 ### INSTRUÇÕES :pushpin:
 ```
-git clone https://github.com/GabrielCayres1/Desafio-NGINX-NODEJS-MYSQL.git
+git clone https://github.com/gabrielcayres1/desafio-nginx-nodejs-mysql.git
 
-cd desafio-docker-nginx-node-mysql
+cd desafio-nginx-nodejs-mysql
 
-docker-compose up [-d]
+docker-compose up -d
 ```
 <br/>
 <br/>
